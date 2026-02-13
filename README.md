@@ -4,17 +4,26 @@
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+Panta Intelligence
 
-View your app in AI Studio: https://ai.studio/apps/drive/1lwSGRlqYAQKg1Ywo8WM-pzNT1fnonYoE
+Overview:
+Panta Intelligence is a data visualization and analytics project designed to simplify the interpretation of complex wallet and transaction data through interactive visual representations. The objective of the project is to transform raw data into meaningful insights that support analysis and decision-making.
 
-## Run Locally
+Motivation:
+Large datasets related to digital wallets and transactions are often difficult to interpret directly from raw records. This project was developed to explore how visualization techniques can improve data understanding and allow users to identify patterns, trends, and relationships efficiently.
 
-**Prerequisites:**  Node.js
+Features:
+Interactive data visualization dashboards
+Structured data representation for easier analysis
+Graphical interpretation of wallet-related data
+User-driven data exploration
+Responsive interface for analytical viewing
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+Future Improvements:
+Advanced analytics integration
+Automated data updates
+Expanded visualization modules
+
+
