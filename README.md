@@ -1,6 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://panta-intelligence.netlify.app/" />
-</div>
+**Live Demo:** [Panta Intelligence Web App](https://panta-intelligence.netlify.app/)
 
 # Run and deploy your AI Studio app
 
